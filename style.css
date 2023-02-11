@@ -1,0 +1,36 @@
+body {
+    background-image: url("photo2.jpg");
+    background-repeat: no-repeat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-attachment: fixed;
+    font-size: 100%;
+    font-style: italic;
+    font-variant: small-caps;
+    letter-spacing: 0px;    
+    }
+    .abc{
+        font-size: 10px;
+        color: aqua;
+    }
+    h1{
+        color: red;
+    }
+    .red{
+        color: #ff0000;
+    }
+    #amroisgay{
+        color: #ff0000;
+    }
+    div {
+        width: 120px;
+        height: 120px;
+        border: 50px solid #ff0000;
+        margin: 2px;
+        overflow: hidden;
+      }
+      a:link {color: #ff0000;} a:visited{color: aliceblue;}
+
+      article{
+        float: left;
+      }
+   
